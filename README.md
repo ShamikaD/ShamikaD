@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShamikaD
+- 🌱 I’m currently learning python, java, C, R and SQL
+- 📫 How to reach me dhurishamika@gmail.com
