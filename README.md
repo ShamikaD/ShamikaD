@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ShamikaD
-- 🌱 I’m currently learning python, java, C, R and some robotics :)
+- 🌱 I’m an AI professional working on some projects
 - 📫 How to reach me dhurishamika@gmail.com
